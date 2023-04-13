@@ -13,4 +13,4 @@ return pessoa
 const pessoaA = Pessoa("Paulo", "Gini")
 const pessoaB = Pessoa("Letícia", "Andriani")
 console.log(pessoaA, pessoaB)
-console.log(pessoaA.nomeCompleto)
+console.log(" NOME COMPLETO PESSOA A",pessoaA.nomeCompleto)
