@@ -3,7 +3,7 @@
 repositprio com 20 ex de logica de programacao que foram criados atraves do modulo 03 do curso jornada Fulltack- SejaDev.
 
 
-## comamdos git 
+## comamdos git dicas
 
 * git clone url: clonar um repositório
 * git checkout branch-name: altera a branch ativa para o  branch-name 
